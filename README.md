@@ -12,7 +12,7 @@ Please visite this link to cheek:
 
 # May improve later
 
-For the background change, in this version, the toggle button cannot keep the statue, because I did not add a state track (useState) like what I used in the store and cart (context), may add later, may also add the background toggle button to every pages, and may add back to top button.
+For the background change, in this version, the toggle button cannot keep the statue, because I did not add a state track (useState in function, this.state in constructor in class) like what I used in the store and cart (context), may add later, may also add the background toggle button to every pages, and may add back to top button.
 
 
 # Reference
@@ -35,3 +35,7 @@ https://www.techiedelight.com/get-element-by-class-name-javascript/</a>
 
 <a href="https://animate.style/">
 https://animate.style/</a>
+
+<a href="https://stackoverflow.com/questions/60961065/unable-to-use-usestate-in-class-component-react-js">
+https://stackoverflow.com/questions/60961065/unable-to-use-usestate-in-class-component-react-js</a>
+
