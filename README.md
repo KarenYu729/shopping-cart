@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Shopping Cart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please visite this link to cheek:
+<a href="https://karenyu729.github.io/shopping-cart/">shopping-cart</a>
 
-## Available Scripts
 
-In the project directory, you can run:
+<img width="960" alt="1689199143775" src="https://github.com/KarenYu729/shopping-cart/assets/97644710/ed288ce3-d7fd-4ae8-ae6f-384fd2a97d3c">
+<img width="960" alt="1689199149450" src="https://github.com/KarenYu729/shopping-cart/assets/97644710/b7ff7214-b109-4352-8cb8-bc179e1c8d08">
+<img width="960" alt="1689199156801" src="https://github.com/KarenYu729/shopping-cart/assets/97644710/65fa128a-ec25-4a35-a39b-f12a30190891">
+<img width="960" alt="1689199184907" src="https://github.com/KarenYu729/shopping-cart/assets/97644710/26859a37-85bb-462e-b0ec-80724d8317af">
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# May improve later
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+For the background change, in this version, the toggle button cannot keep the statue, because I did not add a state track (useState) like what I used in the store and cart (context), may add later, may also add the background toggle button to every pages, and may add back to top button.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Reference
 
-### `npm run build`
+<a href="https://stackoverflow.com/questions/60946584/react-use-context-cannot-destructure-property-currentchatbotinedit-of-object">
+https://stackoverflow.com/questions/60946584/react-use-context-cannot-destructure-property-currentchatbotinedit-of-object</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a href="https://github.com/WebDevSimplified/react-ts-shopping-cart/tree/a2c836465c5e44bfa89af2ec1a86ffa2655c0231">
+https://github.com/WebDevSimplified/react-ts-shopping-cart/tree/a2c836465c5e44bfa89af2ec1a86ffa2655c0231</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<a href="https://github.com/machadop1407/shopping-cart-react/tree/main">
+https://github.com/machadop1407/shopping-cart-react/tree/main</a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<a href="https://codingbeautydev.com/blog/react-check-if-checkbox-is-checked/">
+https://codingbeautydev.com/blog/react-check-if-checkbox-is-checked/</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<a href="https://www.techiedelight.com/get-element-by-class-name-javascript/">
+https://www.techiedelight.com/get-element-by-class-name-javascript/</a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://animate.style/">
+https://animate.style/</a>
