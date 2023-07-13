@@ -1,0 +1,31 @@
+.StoreTitle {
+    /*color: #0ccac4;*/
+    font-family: 'Cabin Sketch', cursive, 'Ysabeau Infant', sans-serif;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+
+.StoreTitle h1 {
+    font-size: 5em;
+}
+
+
+.StoreTitle h5 {
+    /*font-size: 0.8em;*/
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    padding: 15px;
+}
+
+/*.StoreTitle h5:hover {*/
+/*    transform: scale(1.25);*/
+/*}*/
+
+.products {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+}
+
