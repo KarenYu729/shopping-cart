@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Earphone",
+    "price": 99.99,
+    "imgUrl": "https://images.unsplash.com/photo-1617052706252-3f68ad3d50e1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8ZWFycGhvbmVzfHx8fHx8MTY4OTA0MzY2MA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 2,
+    "name": "Camera",
+    "price": 691.74,
+    "imgUrl": "https://images.unsplash.com/photo-1589873445975-2a0f8a9fcdb5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2FtZXJhfHx8fHx8MTY4OTA0Mzk3Nw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 995.23,
+    "imgUrl": "https://images.unsplash.com/photo-1615750173609-2fbf12fd1d2d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFwdG9wfHx8fHx8MTY4OTA0NDI1OQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 4,
+    "name": "Pencil",
+    "price": 0.73,
+    "imgUrl": "https://images.unsplash.com/photo-1623228639000-3c9f7908dc88?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8cGVuY2lsfHx8fHx8MTY4OTA0Mzg0OA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 5,
+    "name": "Hat",
+    "price": 36.99,
+    "imgUrl": "https://images.unsplash.com/photo-1585945103669-c592664059f9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8aGF0fHx8fHx8MTY4OTA0NDA2Nw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 6,
+    "name": "Notebook",
+    "price": 11.37,
+    "imgUrl": "https://images.unsplash.com/photo-1627484151155-d3f8b548b555?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8bm90ZWJvb2t8fHx8fHwxNjg5MDQ0MjA0&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 7,
+    "name": "Lamp",
+    "price": 34.99,
+    "imgUrl": "https://images.unsplash.com/photo-1609092334953-cfbebcc8af7b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFtcHx8fHx8fDE2ODkwNDQzMDk&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 8,
+    "name": "Carpet",
+    "price": 68.49,
+    "imgUrl": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2FycGV0fHx8fHx8MTY4OTA0NDQwMw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 9,
+    "name": "Dish",
+    "price": 15.99,
+    "imgUrl": "https://images.unsplash.com/photo-1499028203764-8669cfd05719?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGlzaHx8fHx8fDE2ODkwNDQ0NzE&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 10,
+    "name": "Candle",
+    "price": 17.44,
+    "imgUrl": "https://images.unsplash.com/photo-1640095889747-2090ee12fa7d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2FuZGxlfHx8fHx8MTY4OTA0NDU0Nw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 11,
+    "name": "Decorative Pillow",
+    "price": 58.99,
+    "imgUrl": "https://images.unsplash.com/photo-1618941026766-87a1bd06ef26?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGVjb3JhdGl2ZSxwaWxsb3d8fHx8fHwxNjg5MDQ0Nzgy&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  },
+  {
+    "id": 12,
+    "name": "ArmChair",
+    "price": 78.49,
+    "imgUrl": "https://images.unsplash.com/photo-1636216225378-4ab4ca54ea13?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=250&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2hhaXJ8fHx8fHwxNjg5MDQ0ODgx&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=250"
+  }
+]
